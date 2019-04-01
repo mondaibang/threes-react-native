@@ -1,6 +1,6 @@
 "# threes-react-native" 
 
-# Android
+# android
 1. run "npm install"
 2. run devices (2 ways)
   a. run android emulator
