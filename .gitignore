@@ -1,0 +1,21 @@
+# dependencies
+node_modules
+android
+ios
+.vscode
+
+# production
+build
+
+# misc
+.DS_Store
+npm-debug.log
+
+
+.babelrc
+.buckconfig
+.flowconfig
+.gitattributes
+.watchmanconfig
+app.json
+test.js
