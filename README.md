@@ -7,4 +7,4 @@
   * run hard device
     - open debug mode on device
     - run "adb devices" to check devices
-2. run "react-native run-android"
+3. run "react-native run-android"
